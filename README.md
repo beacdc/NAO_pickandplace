@@ -5,3 +5,4 @@ The application was meant to run a main file which would get data from another p
 
 The Pick and Place domain is a simple domain where the robot would grab a box in one place and place it at a specific place. Boxes and Places are marks with NAOmarks to make tracking easier.
 The results of this project can be seen in this video:
+https://youtu.be/JSn0-wB4jnE
